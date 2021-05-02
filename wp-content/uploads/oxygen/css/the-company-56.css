@@ -5,8 +5,10 @@
 #section-22-56 > .ct-section-inner-wrap {max-width: 100%;display: flex;}
 #section-22-56 {text-align: left;}
 #section-39-56 > .ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;}
-#div_block-32-56 {width: 50%;align-items: center;text-align: center;justify-content: center;}
-#div_block-33-56 {width: 50%;align-items: center;text-align: center;justify-content: center;}
+#section-703-56 > .ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;}
+@media (max-width:991px) {#section-22-56 {overflow: scroll;}}
+#div_block-32-56 {width: 50%;align-items: center;text-align: center;justify-content: center;padding-left: 0px;padding-right: 0px;}
+#div_block-33-56 {width: 50%;align-items: center;text-align: center;justify-content: center;padding-right: 0px;padding-left: 0px;}
 #div_block-70-56 {width: 40%;align-items: center;text-align: center;}
 #div_block-71-56 {width: 60%;align-items: center;text-align: center;}
 #div_block-66-56 {width: 60%;align-items: center;text-align: center;margin-right: 0px;}
@@ -50,12 +52,36 @@
 #div_block-595-56 {width: 100%;}
 #div_block-600-56 {flex-direction: column;display: flex;text-align: left;}
 #div_block-601-56 {width: 100%;}
-#div_block-82-56 {width: 60%;}
-#div_block-83-56 {width: 40%;}
+#div_block-656-56 {width: 30%;padding-left: 0px;padding-right: 0px;}
+#div_block-657-56 {width: 70%;}
+#div_block-660-56 {width: 100%;}
+#div_block-666-56 {width: 100%;}
+#div_block-664-56 {width: 40%;padding-left: 0px;padding-right: 0px;}
+#div_block-665-56 {width: 60%;}
+#div_block-677-56 {width: 100%;}
+#div_block-679-56 {width: 100%;}
+#div_block-681-56 {width: 40%;padding-left: 0px;padding-right: 0px;}
+#div_block-683-56 {width: 60%;}
+#div_block-685-56 {width: 100%;}
+#div_block-687-56 {width: 100%;}
+#div_block-689-56 {width: 40%;padding-left: 0px;padding-right: 0px;}
+#div_block-691-56 {width: 60%;}
+#div_block-693-56 {width: 100%;}
+#div_block-695-56 {width: 40%;padding-left: 0px;padding-right: 0px;}
+#div_block-697-56 {width: 60%;}
+#div_block-709-56 {width: 100%;}
+#div_block-711-56 {width: 100%;}
+#div_block-713-56 {width: 100%;}
+#div_block-715-56 {width: 40%;padding-left: 0px;padding-right: 0px;}
+#div_block-748-56 {width: 100%;}
+#div_block-746-56 {width: 50%;padding-left: 0px;padding-right: 10px;}
+#div_block-747-56 {width: 50%;padding-right: 0px;padding-left: 10px;}
+#div_block-717-56 {width: 60%;}
 @media (max-width:991px) {#div_block-70-56 {display: none;}}
 @media (max-width:991px) {#div_block-68-56 {display: none;}}
 @media (max-width:991px) {#div_block-6-56 {flex-direction: column;display: flex;align-items: center;text-align: center;}}
 @media (max-width:991px) {#div_block-7-56 {flex-direction: column;display: flex;align-items: center;text-align: center;}}
+@media (max-width:767px) {#div_block-651-56 {padding-left: 20px;padding-right: 20px;}}
 @media (max-width:991px) {#new_columns-31-56> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-31-56> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-69-56> .ct-div-block {width: 100% !important;}}
@@ -64,13 +90,21 @@
 @media (max-width:991px) {#new_columns-65-56> .ct-div-block {width: 100% !important;}}
 @media (max-width:991px) {#new_columns-5-56> .ct-div-block {width: 100% !important;}}
 #new_columns-5-56 {margin-top: 0px;}
-@media (max-width:991px) {#new_columns-81-56> .ct-div-block {width: 100% !important;}}
-@media (max-width:991px) {#new_columns-81-56> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-655-56> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-655-56> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-714-56> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-714-56> .ct-div-block {width: 100% !important;}}
+#headline-756-56 {text-align: left;}
+#headline-84-56 {margin-bottom: 30px;}
 #text_block-36-56 {text-align: left;}
 #text_block-72-56 {text-align: left;}
 #text_block-67-56 {text-align: left;}
 #text_block-11-56 {color: #c43145;font-size: 23px;}
 #text_block-17-56 {color: #c43145;font-size: 23px;}
+#image-668-56 {width: 100%;}
+#image-682-56 {width: 100%;}
+#image-690-56 {width: 100%;}
+#image-696-56 {width: 100%;}
 .oxy_shape_divider {position: absolute;left: 0;right: 0;bottom: -1px;pointer-events: none;}
 .oxy_shape_divider > svg {min-width: 100%;position: absolute;bottom: 0;left: 0;z-index: 0;transform-origin: bottom center;}
 .oxy_shape_divider_top {top: -1px;bottom: initial;}
