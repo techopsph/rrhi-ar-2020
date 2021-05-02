@@ -1,0 +1,366 @@
+#our-products>.ct-section-inner-wrap {max-width: 100%;padding-top: 80px;padding-bottom: 80px;}
+#business-unit-profile>.ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;display: flex;}
+#business-unit-profile {background-size: auto 60%;background-color: #c2404e;background-repeat: no-repeat;overflow: hidden;height: auto;position: relative;}
+#section-23-60>.ct-section-inner-wrap {padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#section-183-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#section-183-60 {background-image: linear-gradient(90deg,#fff 50%,#f4f3ec 50%);overflow: hidden;position: relative;background-position: 100% 0;}
+#department-store>.ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;}
+#department-store {position: relative;background-color: #f4f3ec;}
+#section-61-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#section-40-60>.ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-bottom: 50px;padding-left: 0;}
+#section-40-60 {background-color: #f4f3ec;}
+#section-603-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-left: 0;}
+#section-603-60 {background-image: linear-gradient(90deg,#f4f3ec 50%,#fff 50%);background-color: #f4f3ec;}
+#section-47-60>.ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;}
+#section-47-60 {overflow: hidden;}
+#section-772-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#section-772-60 {background-image: linear-gradient(90deg,#fff 50%,#f4f3ec 50%);overflow: hidden;}
+#section-54-60>.ct-section-inner-wrap {max-width: 100%;padding-right: 0;padding-left: 0;}
+#section-78-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#section-78-60 {overflow: hidden;}
+#section-865-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 120px;padding-left: 0;}
+#section-865-60 {background-color: #f4f3ec;}
+#acquisition-rp>.ct-section-inner-wrap {max-width: 100%;}
+#section-674-60>.ct-section-inner-wrap {max-width: 100%;padding-top: 150px;padding-right: 0;padding-bottom: 150px;padding-left: 0;}
+#section-674-60 {background-color: #f4f3ec;overflow: hidden;position: relative;}
+@media (max-width:767px) {#section-865-60>.ct-section-inner-wrap {padding-top: 30px;padding-bottom: 30px;}}
+#div_block-115-60 {display: flex;text-align: left;}
+#div_block-127-60 {width: 33.33%;padding-left: 0;padding-bottom: 0;padding-top: 0;}
+#div_block-128-60 {width: 66.67%;padding-right: 0;padding-bottom: 0;padding-top: 0;}
+#div_block-132-60 {overflow: visible;height: 100%;position: relative;}
+#div_block-154-60 {position: absolute;bottom: -10rem;left: -10rem;}
+#div_block-147-60 {position: relative;}
+#div_block-480-60 {min-height: 500px;}
+#div_block-156-60 {width: 40%;padding-left: 0;padding-right: 0;padding-bottom: 0;}
+#div_block-157-60 {width: 60%;padding-bottom: 0;}
+#div_block-172-60 {width: 60%;padding-left: 0;padding-top: 0;padding-bottom: 0;}
+#div_block-173-60 {width: 40%;padding-top: 0;padding-right: 0;padding-bottom: 0;}
+#div_block-184-60 {background-color: #f4f3ec;position: relative;}
+#div_block-494-60 {transform: translate(-50%);position: absolute;left: 0;top: 0;height: 100%;width: 40px;padding-left: 0;padding-right: 0;background-color: #c2404e;min-width: ;min-height: ;padding-bottom: 0;padding-top: 0;margin-top: 0;margin-left: 0;margin-right: 0;margin-bottom: 0;}
+#div_block-493-60 {width: 100%;position: relative;}
+#div_block-302-60 {margin-top: 100px;left: 60%;width: 30%;margin-left: 50%;}
+#div_block-303-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-304-60 {width: 75px;height: 75px;background-color: #fbf393;}
+#div_block-306-60 {border-top-left-radius: 50px;border-bottom-left-radius: 50px;border-bottom-right-radius: 50px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;border-top-width: 2;border-right-width: 2;border-bottom-width: 2;border-left-width: 2;border-top-color: #c2404e;border-right-color: #c2404e;border-bottom-color: #c2404e;border-left-color: #c2404e;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;width: 100%;}
+#div_block-309-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-311-60 {width: 50%;padding-top: 0;padding-bottom: 0;justify-content: center;}
+#div_block-314-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-316-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-320-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-322-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-325-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-327-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-487-60 {width: 50%;padding-bottom: 0;padding-top: 0;padding-right: 0;}
+#div_block-488-60 {width: 50%;}
+#div_block-519-60 {width: 50%;justify-content: center;align-items: center;text-align: center;}
+#div_block-520-60 {width: 50%;margin-top: -200px;}
+#div_block-472-60 {width: 50%;padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;}
+#div_block-473-60 {width: 50%;position: relative;padding-top: 0;padding-left: 0;padding-bottom: 0;padding-right: 0;}
+#div_block-263-60 {right: 0;top: 0;margin-top: 30px;margin-left: 0;}
+#div_block-297-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-301-60 {width: 75px;height: 75px;background-color: #fff;}
+#div_block-265-60 {border-top-left-radius: 50px;border-bottom-left-radius: 50px;border-bottom-right-radius: 50px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;border-top-width: 2;border-right-width: 2;border-bottom-width: 2;border-left-width: 2;border-top-color: #c2404e;border-right-color: #c2404e;border-bottom-color: #c2404e;border-left-color: #c2404e;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;width: 300px;}
+#div_block-268-60 {width: 100%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-273-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-275-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-291-60 {width: 40%;padding-left: 0;}
+#div_block-292-60 {width: 60%;padding-left: 0;padding-right: 0;}
+#div_block-534-60 {width: 40%;padding-left: 0;}
+#div_block-537-60 {width: 60%;padding-left: 0;padding-right: 0;}
+#div_block-62-60 {display: flex;align-items: stretch;position: relative;padding-top: 50px;}
+#toysrus-count {right: 0;top: 0;margin-top: 30px;margin-left: 0;}
+#div_block-546-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-547-60 {width: 75px;height: 75px;background-color: #fff;}
+#div_block-549-60 {border-top-left-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;border-top-width: 2;border-right-width: 2;border-bottom-width: 2;border-left-width: 2;border-top-color: #c2404e;border-right-color: #c2404e;border-bottom-color: #c2404e;border-left-color: #c2404e;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;width: auto;}
+#div_block-552-60 {width: 100%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-555-60 {width: 100%;padding-top: 0;padding-bottom: 0;}
+#div_block-465-60 {width: 100%;}
+#div_block-383-60 {width: 40%;padding-left: 15%;padding-right: 0;}
+#div_block-384-60 {width: 60%;padding-left: 0;padding-right: 0;}
+#div_block-478-60 {width: 60%;padding-left: 0;padding-right: 0;padding-top: 0;padding-bottom: 0;}
+#div_block-479-60 {width: 40%;}
+#div_block-361-60 {right: 0;top: 0;margin-left: auto;}
+#div_block-362-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-365-60 {border-top-left-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 50px;color: #fff;background-color: #a52b26;border-top-width: 0;border-right-width: 0;border-bottom-width: 0;border-left-width: 0;}
+#div_block-368-60 {width: 100%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-371-60 {width: 100%;padding-top: 0;padding-bottom: 0;}
+#div_block-357-60 {width: 50%;padding-left: 0;padding-right: 0;}
+#div_block-358-60 {width: 50%;padding-right: 100px;}
+#div_block-468-60 {width: 40px;background-color: #c2404e;height: 100%;position: absolute;z-index: -5;right: 0;top: 0;}
+#div_block-391-60 {width: 50%;padding-left: 0;}
+#div_block-392-60 {width: 50%;}
+#div_block-396-60 {right: 0;top: 0;width: 60%;}
+#div_block-397-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-399-60 {border-top-left-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 40px;color: #fff;background-color: #a52b26;border-top-width: 0;border-right-width: 0;border-bottom-width: 0;border-left-width: 0;width: 100%;}
+#div_block-402-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-410-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-405-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-414-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-441-60 {width: 40%;padding-left: 0;padding-top: 0;padding-right: 0;padding-bottom: 0;}
+#div_block-442-60 {width: 60%;padding-left: 0;padding-top: 0;padding-bottom: 0;padding-right: 0;display: block;}
+#div_block-460-60 {display: block;}
+#div_block-637-60 {width: 50%;padding-left: 0;padding-right: 0;}
+#div_block-638-60 {width: 100%;}
+#div_block-639-60 {right: 0;top: 0;width: 100%;}
+#div_block-640-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-642-60 {width: 50%;border-top-left-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 40px;color: #fff;background-color: #a52b26;border-top-width: 0;border-right-width: 0;border-bottom-width: 0;border-left-width: 0;}
+#div_block-645-60 {width: 100%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-648-60 {width: 100%;padding-top: 0;padding-bottom: 0;}
+#div_block-650-60 {width: 50%;padding-left: 0;padding-right: 0;position: relative;padding-bottom: 0;padding-top: 0;}
+#div_block-834-60 {background-image: linear-gradient(180deg,#c2404e 60%,rgba(255,255,255,0),rgba(0,0,0,0));transform: translate(-50%);width: 40px;height: 130%;position: absolute;top: 0;left: 0;z-index: 0;}
+#div_block-653-60 {width: 50%;padding-left: 0;padding-right: 0;}
+#div_block-655-60 {width: 50%;padding-left: 80px;padding-right: 0;align-items: flex-start;text-align: left;}
+#div_block-704-60 {width: 50%;padding-left: 0;}
+#div_block-711-60 {right: 0;top: 0;margin-top: 30px;margin-left: 0;}
+#div_block-712-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-713-60 {width: 75px;height: 75px;background-color: #fbf393;}
+#div_block-715-60 {border-top-left-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;border-top-width: 2;border-right-width: 2;border-bottom-width: 2;border-left-width: 2;border-top-color: #c2404e;border-right-color: #c2404e;border-bottom-color: #c2404e;border-left-color: #c2404e;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;width: 400px;}
+#div_block-718-60 {width: 33.33%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-725-60 {width: 33.33%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;justify-content: center;}
+#div_block-727-60 {width: 33.34%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-721-60 {width: 33.33%;padding-top: 0;padding-bottom: 0;}
+#div_block-729-60 {width: 33.33%;padding-top: 0;padding-bottom: 0;}
+#div_block-723-60 {width: 33.34%;padding-top: 0;padding-bottom: 0;}
+#div_block-705-60 {width: 50%;padding-right: 0;}
+#div_block-773-60 {background-color: #f4f3ec;border-top-width: 0;border-right-width: 0;border-bottom-width: 0;border-left-width: 0;}
+#div_block-832-60 {transform: translate(-100%);background-color: #f4f3ec;position: absolute;top: 0;left: 0;height: 100%;width: 50px;}
+#div_block-778-60 {width: 25%;padding-left: 0;}
+#div_block-802-60 {width: 75%;padding-right: 0;}
+#div_block-806-60 {width: 60%;padding-left: 0;}
+#div_block-809-60 {width: 40%;padding-right: 0;}
+#div_block-839-60 {width: 60%;padding-left: 0;}
+#div_block-840-60 {width: 40%;padding-right: 0;padding-left: 0;justify-content: center;}
+#div_block-929-60 {width: 40%;padding-left: 0;padding-right: 0;}
+#div_block-930-60 {width: 60%;padding-left: 0;padding-right: 0;}
+#div_block-79-60 {padding-top: 75px;padding-bottom: 30px;}
+#div_block-849-60 {width: 60%;padding-left: 0;padding-right: 0;}
+#div_block-880-60 {width: 100%;position: relative;}
+#div_block-881-60 {transform: translate(-50%);width: 60%;background-color: #f4f3ec;height: 150%;max-height: 200%;position: absolute;z-index: -1;bottom: 0;left: 50%;}
+#div_block-850-60 {width: 40%;padding-right: 0;padding-left: 0;}
+#div_block-852-60 {width: 50%;padding-left: 100px;padding-right: 0;}
+#div_block-853-60 {width: 50%;padding-left: 0;padding-right: 0;}
+#div_block-927-60 {transform: translate(100%);position: absolute;top: 0;right: 0;background-color: #f4f3ec;width: 50px;height: 100%;}
+#div_block-885-60 {width: 50%;justify-content: center;padding-left: 0;padding-right: 0;}
+#div_block-896-60 {right: 0;top: 0;margin-top: 30px;margin-left: auto;width: 100%;}
+#div_block-897-60 {margin-left: 40px;margin-bottom: 5px;position: relative;z-index: 1;justify-content: center;}
+#div_block-898-60 {width: 75px;height: 75px;background-color: #fff;}
+#div_block-900-60 {border-top-left-radius: 50px;border-bottom-left-radius: 50px;border-bottom-right-radius: 50px;padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;border-top-width: 2;border-right-width: 2;border-bottom-width: 2;border-left-width: 2;border-top-color: #c2404e;border-right-color: #c2404e;border-bottom-color: #c2404e;border-left-color: #c2404e;border-top-style: solid;border-right-style: solid;border-bottom-style: solid;border-left-style: solid;margin-left: auto;}
+#div_block-903-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-910-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-906-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-908-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-918-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-920-60 {width: 50%;padding-top: 0;padding-bottom: 0;align-items: flex-start;text-align: left;}
+#div_block-923-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-925-60 {width: 50%;padding-top: 0;padding-bottom: 0;}
+#div_block-886-60 {width: 50%;padding-left: 0;padding-right: 0;}
+#div_block-869-60 {width: 50%;padding-left: 0;padding-right: 0;flex-direction: row;display: flex;align-items: flex-end;justify-content: flex-end;text-align: right;}
+#div_block-871-60 {width: 50%;padding-right: 0;padding-left: 0;}
+#div_block-660-60 {width: 30%;padding-left: 0;padding-right: 0;}
+#div_block-661-60 {width: 35%;}
+#div_block-662-60 {width: 35%;padding-left: 0;padding-right: 0;}
+#prod-qhs {flex-direction: column;display: flex;z-index: 5;}
+#div_block-686-60 {width: 600px;position: relative;text-align: left;z-index: 1;}
+#div_block-944-60 {z-index: 10;}
+#div_block-698-60 {width: 600px;margin-left: auto;position: relative;align-items: center;text-align: center;z-index: 0;margin-top: 50px;}
+@media (max-width:991px) {#div_block-154-60 {position: absolute;left: -100px;}}
+@media (max-width:991px) {#div_block-480-60 {min-height: 350px;}}
+@media (max-width:991px) {#div_block-519-60 {flex-direction: column;display: flex;justify-content: center;padding-right: 0;}}
+@media (max-width:991px) {#div_block-520-60 {margin-top: 0;}}
+@media (max-width:991px) {#div_block-537-60 {flex-direction: column;display: flex;justify-content: center;}}
+@media (max-width:991px) {#div_block-383-60 {padding-left: 0;}}
+@media (max-width:991px) {#div_block-478-60 {display: none;}}
+@media (max-width:991px) {#div_block-655-60 {padding-left: 50px;}}
+@media (max-width:991px) {#div_block-802-60 {flex-direction: column;display: flex;justify-content: center;}}
+@media (max-width:991px) {#div_block-929-60 {display: flex;}}
+@media (max-width:991px) {#div_block-849-60 {flex-direction: row;display: flex;}}
+@media (max-width:991px) {#div_block-852-60 {padding-left: 0;}}
+@media (max-width:991px) {#div_block-886-60 {display: flex;flex-direction: column;justify-content: center;}}
+@media (max-width:991px) {#div_block-869-60 {display: flex;flex-direction: column;justify-content: center;}}
+@media (max-width:991px) {#div_block-686-60 {margin-bottom: 100px;width: 500px;}}
+@media (max-width:767px) {#div_block-127-60 {padding-right: 0;padding-left: 0;padding-top: 0;}}
+@media (max-width:767px) {#div_block-128-60 {padding-left: 0;}}
+@media (max-width:767px) {#div_block-154-60 {position: absolute;left: -7rem;bottom: -8rem;}}
+@media (max-width:767px) {#div_block-157-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:767px) {#div_block-494-60 {position: absolute;width: 30px;}}
+@media (max-width:767px) {#div_block-302-60 {width: 65%;margin-left: auto;margin-right: 0;}}
+@media (max-width:767px) {#div_block-488-60 {padding-left: 50px;}}
+@media (max-width:767px) {#div_block-263-60 {position: static;margin-top: 50px;}}
+@media (max-width:767px) {#div_block-265-60 {width: 100%;}}
+@media (max-width:767px) {#toysrus-count {position: static;margin-top: 50px;}}
+@media (max-width:767px) {#div_block-549-60 {width: 100%;}}
+@media (max-width:767px) {#div_block-383-60 {padding-left: 0;padding-right: 20%;}}
+@media (max-width:767px) {#div_block-642-60 {width: auto;}}
+@media (max-width:767px) {#div_block-655-60 {padding-left: 0;}}
+@media (max-width:767px) {#div_block-711-60 {position: static;margin-top: 50px;}}
+@media (max-width:767px) {#div_block-715-60 {width: 100%;}}
+@media (max-width:767px) {#div_block-705-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:767px) {#div_block-778-60 {padding-right: 0;padding-left: 0;}}
+@media (max-width:767px) {#div_block-802-60 {padding-left: 0;}}
+@media (max-width:767px) {#div_block-806-60 {padding-right: 0;}}
+@media (max-width:767px) {#div_block-809-60 {padding-left: 0;}}
+@media (max-width:767px) {#div_block-839-60 {padding-right: 0;}}
+@media (max-width:767px) {#div_block-852-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:767px) {#div_block-896-60 {position: static;margin-top: 50px;}}
+@media (max-width:767px) {#div_block-900-60 {width: 100%;}}
+@media (max-width:767px) {#div_block-869-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:767px) {#div_block-72-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:767px) {#div_block-660-60 {padding-top: 0;padding-bottom: 0;}}
+@media (max-width:767px) {#div_block-661-60 {padding-left: 0;padding-right: 0;}}
+@media (max-width:991px) {#new_columns-126-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-126-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:767px) {#new_columns-155-60>.ct-div-block {width: 100% !important;}
+	#new_columns-155-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-486-60>.ct-div-block {width: 100% !important;}
+	#new_columns-486-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-518-60>.ct-div-block {width: 100% !important;}
+	#new_columns-518-60 {flex-direction: column-reverse;}}
+@media (max-width:767px) {#new_columns-518-60 {flex-direction: column-reverse;}}
+#new_columns-518-60 {margin-top: 0;}
+@media (max-width:991px) {#new_columns-470-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-470-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:767px) {#ds-anim-trigger>.ct-div-block {width: 100% !important;}
+	#ds-anim-trigger {flex-direction: column;}}
+#ds-anim-trigger {margin-top: 20px;}
+@media (max-width:767px) {#new_columns-533-60>.ct-div-block {width: 100% !important;}
+	#new_columns-533-60 {flex-direction: column;}}
+#new_columns-533-60 {margin-top: 20px;}
+@media (max-width:767px) {#new_columns-382-60>.ct-div-block {width: 100% !important;}
+	#new_columns-382-60 {flex-direction: column;}}
+@media (max-width:991px) {#new_columns-476-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-476-60>.ct-div-block {width: 100% !important;}}
+@media (max-width:767px) {#new_columns-356-60>.ct-div-block {width: 100% !important;}
+	#new_columns-356-60 {flex-direction: column;}}
+@media (max-width:991px) {#new_columns-390-60>.ct-div-block {width: 100% !important;}
+	#new_columns-390-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-440-60>.ct-div-block {width: 100% !important;}
+	#new_columns-440-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-636-60>.ct-div-block {width: 100% !important;}
+	#new_columns-636-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-652-60>.ct-div-block {width: 100% !important;}
+	#new_columns-652-60 {flex-direction: column-reverse;}}
+@media (max-width:767px) {#new_columns-652-60 {flex-direction: column-reverse;}}
+@media (max-width:767px) {#new_columns-703-60>.ct-div-block {width: 100% !important;}
+	#new_columns-703-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-777-60>.ct-div-block {width: 100% !important;}
+	#new_columns-777-60 {flex-direction: column;}}
+@media (max-width:767px) {#new_columns-805-60>.ct-div-block {width: 100% !important;}
+	#new_columns-805-60 {flex-direction: column;}}
+@media (max-width:767px) {#robinsons-appliances>.ct-div-block {width: 100% !important;}
+	#robinsons-appliances {flex-direction: column;}}
+@media (max-width:991px) {#savers-appliances>.ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#savers-appliances>.ct-div-block {width: 100% !important;}}
+@media (max-width:767px) {#daiso>.ct-div-block {width: 100% !important;}
+	#daiso {flex-direction: column;}}
+@media (max-width:767px) {#petlovers>.ct-div-block {width: 100% !important;}
+	#petlovers {flex-direction: column-reverse;}}
+@media (max-width:767px) {#petlovers {flex-direction: column-reverse;}}
+@media (max-width:767px) {#nobrand>.ct-div-block {width: 100% !important;}
+	#nobrand {flex-direction: column;}}
+@media (max-width:767px) {#super50>.ct-div-block {width: 100% !important;}
+	#super50 {flex-direction: column-reverse;}}
+@media (max-width:767px) {#super50 {flex-direction: column-reverse;}}
+@media (max-width:767px) {#new_columns-659-60>.ct-div-block {width: 100% !important;}
+	#new_columns-659-60 {flex-direction: column;}}
+#headline-6-60 {font-size: 24px;}
+#headline-136-60 {line-height: 1;position: absolute;left: 35%;top: 30%;}
+#supermarket {margin-bottom: 30px;}
+#headline-372-60 {color: #fff;}
+#headline-42-60 {margin-bottom: 20px;}
+#headline-406-60 {color: #fff;}
+#headline-415-60 {color: #fff;}
+#headline-649-60 {color: #fff;}
+#headline-73-60 {margin-bottom: 30px;}
+#headline-687-60 {margin-bottom: 30px;}
+#text_block-8-60 {margin-left: auto;}
+#text_block-29-60 {width: 75%;}
+#text_block-502-60 {text-align: left;}
+#text_block-369-60 {color: #fff;}
+#text_block-403-60 {color: #fff;}
+#text_block-411-60 {color: #fff;}
+#text_block-646-60 {color: #fff;}
+#text_block-658-60 {width: 55%;}
+#text_block-52-60 {margin-top: 100px;}
+#text_block-739-60 {margin-top: 100px;}
+#text_block-801-60 {margin-top: 100px;}
+#text_block-808-60 {margin-top: 100px;}
+#text_block-59-60 {width: 75%;}
+#text_block-836-60 {width: 100%;}
+#text_block-83-60 {width: 60%;}
+#text_block-861-60 {width: 60%;}
+#text_block-877-60 {width: 40%;}
+#text_block-693-60 {width: 90%;}
+#text_block-702-60 {z-index: 100;width: 80%;text-align: left;}
+@media (max-width:991px) {#text_block-658-60 {width: 100%;}}
+@media (max-width:991px) {#text_block-83-60 {width: 100%;}}
+@media (max-width:991px) {#text_block-861-60 {width: 100%;}}
+@media (max-width:991px) {#text_block-877-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-658-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-59-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-836-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-83-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-861-60 {width: 100%;}}
+@media (max-width:767px) {#text_block-877-60 {margin-left: 0;padding-left: 0;padding-right: 0;width: 100%;}}
+#_rich_text-28-60 {width: 60%;margin-left: auto;}
+#image-114-60 {width: 100%;margin-top: 20px;margin-bottom: 20px;}
+#image-138-60 {height: 35rem;width: 35rem;bottom: -15%;left: -15%;}
+#image-153-60 {width: 400px;height: 400px;position: absolute;top: -100px;right: -100px;}
+#image-31-60 {margin-top: -50px;}
+#image-482-60 {height: auto;width: 100%;margin-top: auto;}
+#image-165-60 {margin-top: 100px;}
+#image-181-60 {width: 100%;}
+#shopwise-model {width: 120%;margin-left: -15%;z-index: 1;border-top-width: 0;border-right-width: 0;border-bottom-width: 0;border-left-width: 0;margin-top: -140px;max-width: 200%;}
+#easymart-model {margin-bottom: 0;width: 100%;}
+#image-538-60 {width: 100%;}
+#image-532-60 {width: 100%;}
+#benefit-shiseido {width: 100%;}
+#image-65-60 {margin-top: 20px;}
+#toysrus-model {width: 100%;margin-top: -100px;}
+#image-389-60 {width: 100%;}
+#image-456-60 {width: 100%;}
+#image-449-60 {float: right;width: 75%;margin-left: 30px;}
+#image-651-60 {width: 100%;margin-left: auto;z-index: 1;}
+#image-654-60 {margin-left: auto;width: 100%;margin-top: -530px;}
+#image-657-60 {width: 180px;}
+#image-707-60 {transform: translate(-30%,-45%);width: 80%;position: absolute;top: 0;left: 0;z-index: -1;}
+#image-710-60 {transform: translate(70%,-70%);width: 40%;top: 0;z-index: -2;right: 0;position: absolute;}
+#image-766-60 {margin-left: 0;margin-top: 75px;}
+#image-706-60 {width: 100%;}
+#image-774-60 {transform: translate(-50%,-45%);width: 30%;position: absolute;top: 0;left: 0;z-index: 0;}
+#image-800-60 {margin-left: 0;margin-top: auto;}
+#tgp-model {width: 100%;}
+#rose-pharmacy-model {width: 100%;}
+#image-807-60 {margin-left: 0;margin-top: 75px;}
+#image-58-60 {width: 100%;}
+#image-835-60 {width: 100%;}
+#image-879-60 {width: 100%;}
+#image-856-60 {margin-top: 75px;}
+#image-857-60 {width: 150px;}
+#petlovers-model {width: 100%;margin-top: -150px;}
+#image-872-60 {margin-top: 30px;}
+#nobrand-model {width: 100%;margin-right: 0;}
+#super50-model {margin-right: 30px;width: 500px;}
+#image-876-60 {width: 150px;margin-bottom: 20px;margin-top: 75px;}
+#arp-zoom {width: 100%;margin-bottom: 50px;}
+#image-950-60 {transform: translate(-50%,-60%);position: absolute;top: 50%;left: 50%;width: 150%;max-width: 200%;z-index: 0;}
+#image-953-60 {transform: translate(-50%,-50%);position: absolute;top: 50%;left: 50%;width: 110%;max-width: 200%;z-index: 1;}
+@media (max-width:991px) {#image-138-60 {width: 25rem;height: 25rem;}}
+@media (max-width:991px) {#image-153-60 {width: 200px;height: 200px;position: absolute;top: -50px;right: -50px;}}
+@media (max-width:991px) {#shopwise-model {position: relative;width: 120%;max-width: 200%;margin-left: -25%;}}
+@media (max-width:991px) {#toysrus-model {margin-top: 0;}}
+@media (max-width:991px) {#image-654-60 {margin-top: -200px;}}
+@media (max-width:991px) {#image-774-60 {z-index: 0;}}
+@media (max-width:991px) {#image-807-60 {margin-top: 0;}}
+@media (max-width:991px) {#image-856-60 {margin-top: 0;}}
+@media (max-width:991px) {#petlovers-model {margin-top: 0;}}
+@media (max-width:991px) {#image-950-60 {transform: translate(-50%,-50%);}}
+@media (max-width:767px) {#image-31-60 {margin-top: 20px;}}
+@media (max-width:767px) {#image-165-60 {margin-top: 20px;}}
+@media (max-width:767px) {#image-181-60 {width: 100%;margin-top: 30px;}}
+@media (max-width:767px) {#shopwise-model {width: 100%;margin-top: -75px;margin-left: -15%;max-width: 200%;}}
+@media (max-width:767px) {#toysrus-model {margin-top: 0;}}
+@media (max-width:767px) {#image-654-60 {margin-top: 0;}}
+@media (max-width:767px) {#image-807-60 {margin-top: 0;}}
+@media (max-width:767px) {#image-856-60 {margin-top: 0;}}
+@media (max-width:767px) {#petlovers-model {margin-top: 0;}}
+@media (max-width:767px) {#super50-model {margin-right: 0;width: 60%;}}
