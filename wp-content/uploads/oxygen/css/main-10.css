@@ -12,6 +12,8 @@
 #new_columns-64-10 {padding-left: 5%;padding-right: 5%;margin-left: 0px;}
 #headline-59-10 {color: #fff;}
 #headline-62-10 {color: #fff;}
+@media (max-width:991px) {#inner_content-19-225 {overflow: hidden;}}
+#_nav_menu-87-10 .oxy-nav-menu-hamburger-line {background-color: #c2404e;}
 @media (max-width:1120px) {#_nav_menu-87-10 .oxy-nav-menu-list {display: none;}
 	#_nav_menu-87-10 .oxy-menu-toggle {display: initial;}
 	#_nav_menu-87-10.oxy-nav-menu.oxy-nav-menu-open .oxy-nav-menu-list {display: initial;}}
@@ -19,17 +21,16 @@
 #_nav_menu-87-10.oxy-nav-menu.oxy-nav-menu-open .menu-item a {padding-top: 20px;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;}
 #_nav_menu-87-10 .oxy-nav-menu-hamburger-wrap {width: 40px;height: 40px;margin-top: 10px;margin-bottom: 10px;}
 #_nav_menu-87-10 .oxy-nav-menu-hamburger {width: 40px;height: 32px;}
-#_nav_menu-87-10 .oxy-nav-menu-hamburger-line {height: 6px;}
+#_nav_menu-87-10 .oxy-nav-menu-hamburger-line {height: 6px;background-color: #c2404e;}
 #_nav_menu-87-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
 #_nav_menu-87-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
 #_nav_menu-87-10 .oxy-nav-menu-list {flex-direction: row;}
-#_nav_menu-87-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;}
-#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
-#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-top: 20px;padding-bottom: 20px;}
-#_nav_menu-87-10 .menu-item:hover a {background-color: #eee;padding-top: 17px;border-top-width: 3px;}
-#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
-#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-top: 20px;padding-bottom: 20px;}
-#_nav_menu-74-10 .oxy-nav-menu-hamburger-line {background-color: #c43145;}
+#_nav_menu-87-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;color: #c2404e;}
+#_nav_menu-87-10 .current-menu-item a {color: #e3493b;}
+#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-top: 20px;padding-bottom: 20px;color: #c2404e;}
+#_nav_menu-87-10 .menu-item:hover a {padding-top: 17px;border-top-width: 3px;color: #e3493b;}
+#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-top: 20px;padding-bottom: 20px;color: #c2404e;}
+#_nav_menu-74-10 .oxy-nav-menu-hamburger-line {background-color: #c2404e;}
 @media (max-width:767px) {#_nav_menu-74-10 .oxy-nav-menu-list {display: none;}
 	#_nav_menu-74-10 .oxy-menu-toggle {display: initial;}
 	#_nav_menu-74-10.oxy-nav-menu.oxy-nav-menu-open .oxy-nav-menu-list {display: initial;}}
@@ -41,13 +42,13 @@
 #_nav_menu-74-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
 #_nav_menu-74-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
 #_nav_menu-74-10 .oxy-nav-menu-list {flex-direction: row;}
-#_nav_menu-74-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;color: #c43145;}
+#_nav_menu-74-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;color: #c2404e;}
 #_nav_menu-74-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
 #_nav_menu-74-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-top: 20px;padding-bottom: 20px;}
 #_nav_menu-74-10 .menu-item:hover a {background-color: #eee;padding-top: 17px;border-top-width: 3px;}
 #_nav_menu-74-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
 #_nav_menu-74-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-top: 20px;padding-bottom: 20px;}
-#_nav_menu-77-10 .oxy-nav-menu-hamburger-line {background-color: #c43145;}
+#_nav_menu-77-10 .oxy-nav-menu-hamburger-line {background-color: #c2404e;}
 @media (max-width:767px) {#_nav_menu-77-10 .oxy-nav-menu-list {display: none;}
 	#_nav_menu-77-10 .oxy-menu-toggle {display: initial;}
 	#_nav_menu-77-10.oxy-nav-menu.oxy-nav-menu-open .oxy-nav-menu-list {display: initial;}}
@@ -59,9 +60,11 @@
 #_nav_menu-77-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:first-child {top: 13px;}
 #_nav_menu-77-10.oxy-nav-menu-open .oxy-nav-menu-hamburger .oxy-nav-menu-hamburger-line:last-child {top: -13px;}
 #_nav_menu-77-10 .oxy-nav-menu-list {flex-direction: row;}
-#_nav_menu-77-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;color: #c43145;}
+#_nav_menu-77-10 .menu-item a {padding-top: 20px;padding-left: 20px;padding-right: 20px;padding-bottom: 20px;color: #c2404e;}
 #_nav_menu-77-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu {background-color: #eee;}
 #_nav_menu-77-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;padding-top: 20px;padding-bottom: 20px;}
 #_nav_menu-77-10 .menu-item:hover a {background-color: #eee;padding-top: 17px;border-top-width: 3px;}
 #_nav_menu-77-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu:hover {background-color: #eee;}
 #_nav_menu-77-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a:hover {border: 0;padding-top: 20px;padding-bottom: 20px;}
+@media (max-width:991px) {#_nav_menu-87-10 {color: #c2404e;}
+	#_nav_menu-87-10.oxy-nav-menu:not(.oxy-nav-menu-open) .sub-menu .menu-item a {border: 0;}}
