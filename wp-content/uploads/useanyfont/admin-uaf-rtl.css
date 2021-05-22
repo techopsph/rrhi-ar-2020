@@ -1,3 +1,11 @@
-@font-face {font-family: "soleil-bold";src: url("/wp-content/uploads/useanyfont/6139Soleil-Bold.woff2") format("woff2"),url("/wp-content/uploads/useanyfont/6139Soleil-Bold.woff") format("woff");}
-.soleil-bold {font-family: "soleil-bold" !important;}
-.et_gf_soleil-bold {background: none !important;font-family: soleil-bold;text-indent: 0 !important;font-size: 25px;}
+				@font-face {
+					font-family: 'soleil-bold';
+					src: url('/wp-content/uploads/useanyfont/6139Soleil-Bold.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6139Soleil-Bold.woff') format('woff');
+				}
+
+				.soleil-bold{font-family: 'soleil-bold' !important;}
+
+				.et_gf_soleil-bold{background:none !important;font-family:soleil-bold;text-indent:0 !important;font-size:25px;}
+
+		
