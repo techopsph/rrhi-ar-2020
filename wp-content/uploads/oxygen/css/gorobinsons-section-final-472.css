@@ -1,1 +1,16 @@
-#gorobinsons-section > .ct-section-inner-wrap{max-width:100%;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0}#gorobinsons{padding-top:75px;padding-bottom:75px}#div_block-1931-468{width:100%;flex-direction:row;display:flex;position:relative;margin-bottom:75px}#div_block-1933-468{width:100%;margin-left:auto}#div_block-1944-468{width:70%;margin-left:auto}#div_block-1935-468{width:90%;height:10px;background-color:#c2404e;margin-left:auto}#div_block-1945-468{width:30%;position:absolute;left:0px;bottom:0px;margin-bottom:-75px}#div_block-1937-468{width:33.33%}#div_block-1939-468{width:66.67%;padding-left:0px;padding-right:0px}#div_block-1949-468{transform:translate(-200%);width:40px;height:100%;position:absolute;top:0px;left:0px;background-color:#f0e85d}@media (max-width:767px){#div_block-1937-468{padding-left:0px;padding-right:0px}}@media (max-width:991px){#new_columns-1936-468> .ct-div-block{width:100% !important}}@media (max-width:991px){#new_columns-1936-468> .ct-div-block{width:100% !important}}#text_block-1938-468{font-size:1.5rem;font-family:'soleil'}#image-1934-468{width:30%;margin-left:auto;margin-right:auto}#image-1932-468{width:100%;left:0px;bottom:0px}
+#gorobinsons-section > .ct-section-inner-wrap {max-width: 100%;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;}
+#gorobinsons {padding-top: 75px;padding-bottom: 75px;}
+#div_block-1931-468 {width: 100%;flex-direction: row;display: flex;position: relative;margin-bottom: 75px;}
+#div_block-1933-468 {width: 100%;margin-left: auto;}
+#div_block-1944-468 {width: 70%;margin-left: auto;}
+#div_block-1935-468 {width: 90%;height: 10px;background-color: #c2404e;margin-left: auto;}
+#div_block-1945-468 {width: 30%;position: absolute;left: 0px;bottom: 0px;margin-bottom: -75px;}
+#div_block-1937-468 {width: 33.33%;}
+#div_block-1939-468 {width: 66.67%;padding-left: 0px;padding-right: 0px;}
+#div_block-1949-468 {transform: translate(-200%);width: 40px;height: 100%;position: absolute;top: 0px;left: 0px;background-color: #f0e85d;}
+@media (max-width:767px) {#div_block-1937-468 {padding-left: 0px;padding-right: 0px;}}
+@media (max-width:991px) {#new_columns-1936-468> .ct-div-block {width: 100% !important;}}
+@media (max-width:991px) {#new_columns-1936-468> .ct-div-block {width: 100% !important;}}
+#text_block-1938-468 {font-size: 1.5rem;font-family: "soleil";}
+#image-1934-468 {width: 30%;margin-left: auto;margin-right: auto;}
+#image-1932-468 {width: 100%;left: 0px;bottom: 0px;}
